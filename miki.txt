@@ -1,7 +1,9 @@
-Miki e car.
+Miki e car. Remote change
 
 Reebase, Rebase
 Rebase from the future branch....
 Future branch ......
 
 Not conflicting changes.....
+ ******************************
+ ******************************
