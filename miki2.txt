@@ -1,3 +1,5 @@
+Multiple stashes
+
 Adding some text to rebase.
 ***********************************88
 Stashing stashing
